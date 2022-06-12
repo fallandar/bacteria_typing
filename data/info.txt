@@ -1,0 +1,1 @@
+ab_genbank_mlst_pas_2022_06.txt - MLST data, Pasteur scheme, Genbank, Acinetobacter baumannii
