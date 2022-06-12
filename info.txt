@@ -3,6 +3,8 @@ Database update:
 Acinetobacter baumannii 
 26.05.2022 (mlst, https://pubmlst.org/bigsdb?db=pubmlst_abaumannii_seqdef); 
 26.05.2022 (cgMLST, https://www.cgmlst.org/ncs/schema/schema/3956907/)
+Downloaded from Genbank on June 01, 2022
+
 
 Software versions used:
 mlst 2.22.0 https://github.com/tseemann/mlst
