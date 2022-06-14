@@ -5,6 +5,10 @@ Acinetobacter baumannii
 26.05.2022 (cgMLST, https://www.cgmlst.org/ncs/schema/schema/3956907/)
 Downloaded from Genbank on June 01, 2022
 
+Klebsiella pneumoniae
+12.06.2022 (mlst, https://bigsdb.pasteur.fr/cgi-bin/bigsdb/bigsdb.pl?db=pubmlst_klebsiella_seqdef); 
+Downloaded from Genbank on June 07, 2022
+
 
 Software versions used:
 mlst 2.22.0 https://github.com/tseemann/mlst
