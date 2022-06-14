@@ -1,5 +1,8 @@
 ab_genbank_mlst_pas_2022_06.md - MLST data, Pasteur scheme, Genbank, Acinetobacter baumannii
 ab_genbank_mlst_pas_2022_06.txt - the same file as previous, but in txt format
 
+ab_genbank_2022-06_cgmlst.txt.gz - cgMLST profiles, Genbank, Acinetobacter baumannii
+
+-----------------------------------------------
 kp_genbank_mlst_2022_06.md - MLST data, Genbank, Klebsiella pneumoniae
 kp_genbank_mlst_2022_06.txt - the same file as previous, but in txt format
