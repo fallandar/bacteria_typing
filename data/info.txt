@@ -6,3 +6,5 @@ ab_genbank_2022-06_cgmlst.txt.gz - cgMLST profiles, Genbank, Acinetobacter bauma
 -----------------------------------------------
 kp_genbank_mlst_2022_06.md - MLST data, Genbank, Klebsiella pneumoniae
 kp_genbank_mlst_2022_06.txt - the same file as previous, but in txt format
+
+kp_genbank_cgmlst_2022-06_part1.txt.gz, kp_genbank_cgmlst_2022-06_part2.txt.gz - cgMLST profiles, Genbank, Klebsiella pneumoniae
