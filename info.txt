@@ -7,6 +7,7 @@ Downloaded from Genbank on June 01, 2022
 
 Klebsiella pneumoniae
 12.06.2022 (mlst, https://bigsdb.pasteur.fr/cgi-bin/bigsdb/bigsdb.pl?db=pubmlst_klebsiella_seqdef); 
+12.06.2022 (cgMLST, https://www.cgmlst.org/ncs/schema/schema/2187931/)
 Downloaded from Genbank on June 07, 2022
 
 
